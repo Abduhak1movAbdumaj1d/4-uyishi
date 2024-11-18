@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0px;
+    font-size: 17px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 77px 0px;
+}
+
+
+.qizil{ 
+    display: flex;
+    justify-content: space-around;
+}
+.s{    background-color: red;
+    width: 777px;
+    height: 555px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+    
